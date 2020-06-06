@@ -11,5 +11,6 @@ def learn(x)
   end
   
   def knowledge
-    
+    @knowledge
+  end  
 end
