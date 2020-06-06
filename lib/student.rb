@@ -7,4 +7,5 @@ end
 def knowledge(x)
   @knowledge << x
   @knowledge
+  end
 end
