@@ -6,5 +6,6 @@ end
 
 def learn(x)
   @knowledge << x
+  @knowledge
 end
 end
