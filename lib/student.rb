@@ -9,4 +9,3 @@ def learn(x)
 end
 @knowledge
 end
-end
