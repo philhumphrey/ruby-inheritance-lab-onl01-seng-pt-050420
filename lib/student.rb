@@ -2,7 +2,7 @@ class Student < User
 KNOWLEDGE
 
 def initialize
-  @knowledge == KNOWLEDGE
+  @knowledge = KNOWLEDGE= []
   @knowledge = []
   
 end
